@@ -63,8 +63,8 @@ jupyter notebook
 ---
 
 ## Authors
-Kevin Bai, James Lawinger  
-ISYE 6644 - Group 44  
+Kevin Bai 
+ISYE 6644
 Spring 2025
 
 ---
