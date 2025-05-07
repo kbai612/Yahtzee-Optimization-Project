@@ -1,0 +1,6 @@
+Strategy,Mean,Median,Std Dev,Min,Max,95% CI
+Dice-Driven,169.4,167.0,37.65,60,327,0.74
+Yahtzee Focus,139.81,138.0,35.38,48,284,0.69
+Greedy,139.33,138.0,35.28,50,284,0.69
+Upper Focus,98.28,95.0,30.42,37,258,0.6
+Lower Focus,81.63,78.0,32.65,13,209,0.64

@@ -1,0 +1,6 @@
+,Dice-Driven,Greedy,Lower Focus,Upper Focus,Yahtzee Focus
+Dice-Driven,0.5,0.713,0.958,0.929,0.705
+Greedy,0.283,0.504,0.88,0.814,0.497
+Lower Focus,0.041,0.114,0.502,0.342,0.111
+Upper Focus,0.071,0.188,0.651,0.497,0.182
+Yahtzee Focus,0.286,0.503,0.885,0.814,0.498
